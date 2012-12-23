@@ -21,7 +21,7 @@
     "idle-seeding-limit": 30, 
     "idle-seeding-limit-enabled": false, 
     "incomplete-dir": "/home/pi/downloads/incomplete", 
-    "incomplete-dir-enabled": false, 
+    "incomplete-dir-enabled": true, 
     "lpd-enabled": false, 
     "max-peers-global": 200, 
     "message-level": 2, 
